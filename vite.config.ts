@@ -1,6 +1,6 @@
 export default defineConfig(() => {
   return {
-    base: '/Level-Up/',
+    base: '/Path-Pilot/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
